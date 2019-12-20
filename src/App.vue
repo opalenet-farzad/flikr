@@ -25,6 +25,6 @@ export default {
     color: #2c3e50;
   }
 #app .container-fluid{
-  background-color: rgb(44, 62, 80);
+  background-color: #17a2b8 !important;
 }
 </style>

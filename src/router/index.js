@@ -23,7 +23,7 @@ const routes = [
   {
     path: '*',
     name: 'err',
-    component: () => import('../views/Home.vue'),
+    component: Home,
   },
 ];
 
